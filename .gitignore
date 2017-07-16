@@ -1,0 +1,6 @@
+*.jpg
+*.png
+.ipynb_checkpoints/
+.spyproject/
+run/tmp/
+__pycache__/
