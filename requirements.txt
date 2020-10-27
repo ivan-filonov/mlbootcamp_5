@@ -16,7 +16,7 @@ chardet==3.0.3
 checkbox-support==0.22
 chrome-gnome-shell==0.0.0
 command-not-found==0.3
-cryptography==1.2.3
+cryptography==3.2
 cycler==0.10.0
 Cython==0.25.2
 decorator==4.0.11
