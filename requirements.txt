@@ -52,7 +52,7 @@ language-selector==0.1
 lazy-object-proxy==1.2.2
 lightgbm==2.0.4
 louis==2.6.4
-lxml==3.5.0
+lxml==4.6.3
 Mako==1.0.3
 Markdown==2.6.8
 MarkupSafe==1.0
