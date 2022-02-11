@@ -81,7 +81,7 @@ pickleshare==0.7.4
 Pillow==3.1.2
 plainbox==0.25
 prompt-toolkit==1.0.14
-protobuf==3.3.0
+protobuf==3.15.0
 psutil==5.1.3
 ptyprocess==0.5.1
 pyasn1==0.1.9
